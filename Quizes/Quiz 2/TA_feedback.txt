@@ -1,0 +1,3 @@
+problem 1:-0.5 pts The table is not sorted in ascending Employee_Name. Create a subset of United States employees with salaries more than $80,000. Filter Salary>80000 is missing. 
+
+Problem 2) Creating a New Table in the Query Builder with a Simple Filter • Create a table with employees who donated in Quarter 4 by Credit Card. Add Paid_By = “Credit Card” filter. • Create a table with employees who donated in Quarter 4 by Credit Card. Make sure Qtr4 is NOT missing or IS NOT NULL. • Sort data in descending order of Qtr4.
